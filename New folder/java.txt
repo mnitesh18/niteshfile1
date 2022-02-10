@@ -1,0 +1,71 @@
+ git remote add origin https://github.com/mnitesh18/de
+
+git remote add origin https://github.com/mnitesh18/devops.git
+  
+
+
+maven -automation projrct management tool
+based on project object model pom,xml extensible markup language
+build tool and manages dependencies
+it is process of converting source code into artifact(final file)
+source code to artifact file
+
+jar- java archieve
+war- webarchieve
+executable file
+
+Dependencies - it refers to java libraries that are needed for the project
+
+build tools:
+c,c++ - make file
+.net: visual studio
+java: ant,maven,gradle
+
+
+
+adhoc commands used to install packages from servers to n no of hosts
+
+ansible modules
+
+ansible playbooks
+
+
+
+JAVA STRUCTURE:
+
+# SOURCE CODE
+# TEST CODE
+# PROJECT STRUCTURE (ASSETS, DIRECTORIES, RESOURCES
+# DEPENDENCIES / LIBRARY
+# CONFIGURATION
+# TASK RUNNER (BUILD,TEST,RUN)
+# REPORTING
+
+PROBLEMS WITHOUT MAVEN
+
+ADDING SET OF JARS IN EACH PROJECT:
+CREATE THE RIGHT PROJECT STUCTURE
+BUILDING AND DEPLOYING THE PROJECT:
+
+
+WHAT EXACTLY MAVEN DOES?
+
+EASY TO ADD NEW DEPENDENCIES.
+
+GENERATE SOURCE CODE
+DOCUMENTATION GENERATE
+COMPILE SOURCE CODE
+INSTALL THE PACKAGE CODE IN THE LOCAL REPO, CENTRAL REPO, SERVER REPO
+POM REFERS THE XML FILE.
+POM.XML
+VERSION AND CONFIGURATION MANAGEMENT 
+XML FILE IS IN THE PROJECT HOME DIRECTORY.
+
+
+maven
+maven repo
+java version 1.8
+
+
+
+
